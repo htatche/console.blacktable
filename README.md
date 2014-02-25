@@ -16,4 +16,6 @@ Also supported:
 
 Usage:
 
+```
 console.table([["foo"],["master"]])
+```
