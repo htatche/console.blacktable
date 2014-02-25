@@ -5,12 +5,11 @@ Extension of console.table that allows you to pass any kind of params (also embe
 
 Supported for now:
 
-Objects
-Arrays (both uni and multi-dimensional)
-Strings
-Numbers
+- Objects
+- Arrays (both uni and multi-dimensional)
+- Strings
+- Numbers
 
 Also supported:
 
-Ember Data models 
->>>>>>> First commit
+- Ember Data models 
