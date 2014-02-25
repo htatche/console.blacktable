@@ -13,3 +13,7 @@ Supported for now:
 Also supported:
 
 - Ember Data models 
+
+Usage:
+
+console.table([["foo"],["master"]])
